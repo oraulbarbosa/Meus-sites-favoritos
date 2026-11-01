@@ -4,18 +4,18 @@ Página web com meus sites favoritos de inspiração, design, esportes, leitura 
 
 ## 🛠️ Tecnologias
 
-- <img width="48" height="48" alt="HTML" src="https://github.com/user-attachments/assets/6e49349f-02ce-4bb7-921b-c081ec378c88" />
+- <img width="48" height="48" alt="HTML" src="https://github.com/user-attachments/assets/bc6cff75-2f4f-4c3f-a939-33796c44b947"/>
 - <img width="48" height="48" alt="Vscode" src="https://github.com/user-attachments/assets/6e49349f-02ce-4bb7-921b-c081ec378c88" />
 
 ## 📁 Estrutura
-meus-sites-favoritos/
-├── index.html
-├── img/
-│ ├── desingboom.png
-│ ├── ge.png
-│ ├── medium.png
-│ ├── pinterest.png
-│ └── youtube.png
+meus-sites-favoritos/<br>
+├── index.html <br>
+├── img/ <br>
+│ ├── desingboom.png <br>
+│ ├── ge.png <br>
+│ ├── medium.png <br>
+│ ├── pinterest.png <br>
+│ └── youtube.png <br>
 
 ## 📝 Sites listados
 
@@ -27,7 +27,7 @@ meus-sites-favoritos/
 
 ## 🚀 Como visualizar
 
-Basta abrir o `index.html` no navegador.
+Basta abrir o `index.html` no navegador de sua preferência.
 
 Ou usar a extensão **Live Server** no VS Code ou IDE de preferência.
 
